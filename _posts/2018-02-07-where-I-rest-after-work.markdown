@@ -4,7 +4,7 @@ title:  "깃허브 첫글"
 summary: GIT HUB 첫글
 author: KSJ
 date: '2021-02-18 09:41:00 +0900'
-category: jekyll
+categories: plan
 thumbnail: /assets/img/posts/code.jpg
 ---
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
