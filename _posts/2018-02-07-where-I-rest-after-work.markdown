@@ -9,10 +9,10 @@ thumbnail: /assets/img/posts/code.jpg
 ---
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 
-# 1. 깃허브 블로그 운영 목적: 
-## 2022.07 포토폴리오 제출 get ready인 상태로 만드는 것
+#1. 깃허브 블로그 운영 목적: 
+##2022.07 포토폴리오 제출 get ready인 상태로 만드는 것
 
-# 2. 해당 블로그에서 다룰 내용:
+#2. 해당 블로그에서 다룰 내용:
 ## (1) R,PYTHON,JAVA에 대한 기본 코드 스킬
 ## (2) R,PYTHON: EDA,모델링, SCORE, VISUALIZATION
 ### - R : H2o모델링, 모델링 자동화에 필요한 사용자정의함수 모음으로 구성
