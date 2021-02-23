@@ -1,15 +1,47 @@
 ---
 layout: post
-title: Does minimalism help in a career?
+title: The purpose of project
 image: 2.jpg
 date: 2018-02-07 17:58:18 +0200
 tags: [workflow, minimalism]
-categories: minimalism
+categories: project
 ---
-Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
+GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 
-Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
+1. 깃허브 블로그 운영 목적: 
+2022.07 포토폴리오 제출 get ready인 상태로 만드는 것
+즉 포토폴리오용으로 만들기
 
-Adaptogen retro 8-bit mlkshk echo park hammock godard venmo flannel tilde umami enamel pin trust fund single-origin coffee etsy. Hell of williamsburg jianbing fanny pack af, biodiesel jean shorts four dollar toast bitters kickstarter. DIY edison bulb keffiyeh raclette. Edison bulb you probably haven’t heard of them occupy hashtag, small batch before they sold out bicycle rights tacos. IPhone selfies banh mi sartorial, typewriter seitan plaid. Fanny pack williamsburg gentrify plaid hoodie. Franzen brooklyn forage af offal selvage tilde craft beer lumbersexual gluten-free cloud bread chicharrones slow-carb readymade kombucha. Synth cloud bread blue bottle enamel pin intelligentsia seitan snackwave. Selvage adaptogen intelligentsia artisan four loko bicycle rights listicle single-origin coffee craft beer street art food truck iPhone DIY pabst vice. Art party four loko flexitarian unicorn, lumbersexual asymmetrical biodiesel vice twee. Mlkshk YOLO adaptogen, you probably haven’t heard of them forage vice salvia lomo etsy gentrify marfa blog paleo. Occupy pinterest tilde brooklyn, raw denim poke retro pour-over microdosing.
+2. 해당 블로그에서 다룰 내용:
+(1) R,PYTHON,JAVA에 대한 기본 코드 스킬
+(2) R,PYTHON: EDA,모델링, SCORE, VISUALIZATION
+ - R : H2o모델링, 모델링 자동화에 필요한 사용자정의함수 모음으로 구성
+ - PYTHON : H2o모델링, 모델링 전반에 필요한 스킬 셋 구성
+    1) 2~3달 캐글 BEST CODE 필사
+    2) EDA, SCORE 각 부분 BEST VERSION 정리
+    3) EDA modeling/training optimization/prediction/retraining/ETL/TS
+(3) CONTINUOUS INPUT:
+   - 스탠포드CS, edwith
+   - 논문 리뷰
+   - 페이스북 페이지 텐서플로우/스파크/토치(페이스북 페이지)
 
-Skateboard keytar actually disrupt taiyaki, synth biodiesel. Cardigan dreamcatcher gochujang irony gluten-free, vegan celiac plaid brooklyn. Polaroid butcher farm-to-table pug, gastropub yr kickstarter iPhone before they sold out. Marfa cornhole migas hashtag flannel fashion axe deep v kogi. Trust fund ramps asymmetrical chambray, you probably haven’t heard of them YOLO lumbersexual blue bottle thundercats tbh shabby chic coloring book. Kickstarter ugh try-hard four dollar toast master cleanse. Semiotics bespoke art party twee roof party cardigan. Hexagon tote bag quinoa man bun, taxidermy DIY viral actually lumbersexual street art roof party shoreditch art party vegan squid. Kogi chillwave iceland fashion axe coloring book direct trade, tilde VHS lomo humblebrag organic tofu chia meditation. Hella keytar shabby chic 90’s taxidermy tacos marfa. Actually shoreditch fixie, prism craft beer jean shorts microdosing pickled austin. Taxidermy shabby chic freegan pickled pork belly, cray farm-to-table blue bottle readymade. 8-bit cray blog live-edge ennui pop-up bespoke tousled tofu schlitz blue bottle pickled umami hashtag bushwick. Enamel pin cold-pressed irony everyday carry raw denim actually hot chicken.
+3. 포토폴리오:
+  프로젝트명
+  프로젝트 내 역할
+  프로젝트 성과
+  구체적인 프로젝트 내용
+  관련한 정의, 원리, 프로토타입 같은 것 정리
+  필요한 것 *** A/B테스트 기반 가설검증 경험, 그로스해킹 프로젝트 경험
+4. 3월 진행 내용:
+ 데이터 핸들링 파트/h2o 정리
+ (1) 기본 핸들링
+- merge
+- 변수select
+- 집합
+- 집계
+- 샘플링
+- 엑셀내보내기
+- 샤이니함수
+- 반복 lapply (데이터별, 변수별)
+- 사용자정의함수
+ (2) h2o
