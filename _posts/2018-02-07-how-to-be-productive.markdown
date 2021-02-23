@@ -1,13 +1,49 @@
 ---
 layout: post
-title: How to be productive?
-image: 9.jpg
-date: 2018-02-07 17:50:18 +0200
-tags: [workflow, programming]
-categories: productivity
+title:  "깃허브 첫글"
+summary: GIT HUB 첫글
+author: KSJ
+date: '2021-02-18 09:41:00 +0900'
+categories: plan
+thumbnail: /assets/img/posts/code.jpg
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven’t heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
+1. 깃허브 블로그 운영 목적: 
+2022.07 포토폴리오 제출 get ready인 상태로 만드는 것
+즉 포토폴리오용으로 만들기
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven’t heard of them.
+2. 해당 블로그에서 다룰 내용:
+(1) R,PYTHON,JAVA에 대한 기본 코드 스킬
+(2) R,PYTHON: EDA,모델링, SCORE, VISUALIZATION
+ - R : H2o모델링, 모델링 자동화에 필요한 사용자정의함수 모음으로 구성
+ - PYTHON : H2o모델링, 모델링 전반에 필요한 스킬 셋 구성
+    1) 2~3달 캐글 BEST CODE 필사
+    2) EDA, SCORE 각 부분 BEST VERSION 정리
+    3) EDA modeling/training optimization/prediction/retraining/ETL/TS
+(3) CONTINUOUS INPUT:
+   - 스탠포드CS, edwith
+   - 논문 리뷰
+   - 페이스북 페이지 텐서플로우/스파크/토치(페이스북 페이지)
+
+3. 포토폴리오:
+  프로젝트명
+  프로젝트 내 역할
+  프로젝트 성과
+  구체적인 프로젝트 내용
+  관련한 정의, 원리, 프로토타입 같은 것 정리
+  필요한 것 *** A/B테스트 기반 가설검증 경험, 그로스해킹 프로젝트 경험
+4. 3월 진행 내용:
+ 데이터 핸들링 파트/h2o 정리
+ (1) 기본 핸들링
+- merge
+- 변수select
+- 집합
+- 집계
+- 샘플링
+- 엑셀내보내기
+- 샤이니함수
+- 반복 lapply (데이터별, 변수별)
+- 사용자정의함수
+ (2) h2o
+
