@@ -39,7 +39,7 @@ thumbnail: /imgages/ship-3401500_1920.png
    타이타닉 문제의 목적은 
    타이타닉호에 탑승한 승객들의 데이터를 바탕으로 생존자를 예측하는 문제입니다.
    즉 TARGET은 SURVIVED이며, 생존 여부 1,0을 예측하는 것이죠.
-   {% include image.html file="/images/ship-3401500_1920.jpg" description="titanic." class="center-50"%}
+
    
 
    ***
